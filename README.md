@@ -2,5 +2,5 @@
 
 Perintah : Membuat tampilan "Login" dengan fitur show password, menggunakan icon hide dan show.\
 \
-Inpirasi Code from Youtube : [Codehal](https://www.youtube.com/watch?v=p1GmFCGuVjw) \
+Inpirasi Code from Youtube : Codehal \
 Image from Google : Peakpx
